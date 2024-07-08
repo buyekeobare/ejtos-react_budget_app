@@ -8,8 +8,8 @@
 - View your app on the browser.
 - Here, you are importing different components,adding a bootstrap container that helps you center your App on the
 
-<p>
-  <img src="https://github.com/buyekeobare/ejtos-react_budgte_app/blob/main/images/budget_allocation_app.png" alt="Budget Allocation Application">
+<p align="center">
+  <img src="images/budget_allocation_app.png" alt="Budget Allocation Application">
 </p>
 
 The image above displays the Company’s Budget Allocation application page I will be developing in this practice project.
